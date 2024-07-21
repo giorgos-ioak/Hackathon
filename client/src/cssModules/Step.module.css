@@ -9,7 +9,7 @@
 .main_container {
   display: flex;
   flex-direction: column;
-  width: 60%;
+  width: 50%;
   gap: 6rem;
 }
 
@@ -120,5 +120,38 @@
   .p {
     font-size: 1.1rem;
     margin-top: 0.8rem;
+  }
+}
+
+@media (min-width: 1025px) and (max-width: 1444px) {
+  .section {
+    padding-top: 6rem;
+    height: 70vh;
+  }
+
+  .main_container {
+    width: 70%;
+    gap: 4rem;
+  }
+
+  .step_container h2 {
+    font-size: 2rem;
+    margin-right: 1.1rem;
+  }
+  
+
+  .p {
+    font-size: 1.1rem;
+    margin-top: 0.8rem;
+  }
+}
+
+
+
+
+@media (max-height: 800px) {
+  .section {
+    padding-top: 6rem;
+    height: 84vh;
   }
 }

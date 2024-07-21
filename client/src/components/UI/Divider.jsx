@@ -1,8 +1,14 @@
 import styles from '../../cssModules/Divider.module.css';
 
-function Divider() {
+function Divider({ black }) {
+  let classes = styles.divider;
+
+  if(black) {
+    classes = styles.divider_black;
+  }
+
   return (
-    <div className={styles.divider}></div>
+    <div className={classes}></div>
   )
 }
 
