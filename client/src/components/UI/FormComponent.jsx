@@ -44,7 +44,7 @@ function FormComponent() {
       const outputText = document.getElementById('outputText');
       outputText.value = '';
       
-      const response = await fetch('https://llama-hackathon-server.onrender.com/', {
+      const response = await fetch('https://hackathon-c9e6.onrender.com/', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
