@@ -4,6 +4,7 @@ A web app that uses LLaMA-3 to suggest innovative project ideas based on user-in
 
 
 Dependencies installed:
+
 React: 
 1) npm install
 2) npm run dev
