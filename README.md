@@ -28,4 +28,5 @@ Python:
 
 
 Our Figma UI Design: https://www.figma.com/design/6rmRJZQuJRIFhiXI2pUZlN/Untitled?node-id=0-1&t=6mXZ1BGYfQBYGMGW-0
+
 App Link : https://chic-selkie-3805e7.netlify.app/
