@@ -1,6 +1,5 @@
 # Llama3 Hackathon by Labalab AI.
 ### A web app that uses the Llama 3 model to suggest innovative project ideas based on user-input technologies.
-  * Cerification: https://lablab.ai/u/@Houdinis/cm0fgtg8r005xe7ihllbj9aw7 <br>
   * Our Figma UI Design: https://www.figma.com/design/6rmRJZQuJRIFhiXI2pUZlN/Untitled?node-id=0-1&t=6mXZ1BGYfQBYGMGW-0
 
 <br>
